@@ -1,0 +1,393 @@
+.main-title {
+    text-align: center;
+
+    color: goldenrod;
+    font-size: 50px;
+    height: 100px;
+    line-height: 100px;
+    background-color: brown;
+}
+
+body {
+    background-color: rgb(218, 101, 101);
+}
+
+.search-by-no {
+    width: 211px;
+    height: 100px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.image-inputfoodclass {
+    margin-bottom: 80px;
+}
+
+.add-food-item-btn-class {
+    height: 40px;
+    width: 90px;
+    font-size: 20px;
+    line-height: 40px;
+    text-align: center;
+    margin-bottom: 230px;
+}
+
+.report-btn-temp1 {
+    height: 50px;
+    width: 200px;
+    line-height: 50px;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom:20px ;
+}
+.report-btn-temp2 {
+    height: 50px;
+    width: 200px;
+    line-height: 50px;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom:20px ;
+}
+.report-btn-temp3 {
+    height: 50px;
+    width: 200px;
+    line-height: 50px;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom:20px ;
+}
+
+.update-food-item-btn-class {
+    height: 40px;
+    width: 90px;
+    font-size: 20px;
+    line-height: 40px;
+    text-align: center;
+}
+
+.search-by-food-super {
+    width: 211px;
+    height: 100px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 13px;
+}
+
+.choose-image-new-food {
+    margin-bottom: 10px;
+}
+
+.search-by-food {
+    width: 211px;
+    height: 100px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+button {
+    cursor: pointer;
+    height: 145px;
+    width: 145px;
+    font-size: small;
+}
+
+.total-price {
+    margin-bottom: 20px;
+    height: 30px;
+    width: 200px;
+    font-size: 15px;
+}
+
+.payment-method-select-class{
+    height: 30px;
+    width: 211px;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.order-details-label {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.customer_id {
+    margin-bottom: 20px;
+    height: 30px;
+    width: 200px;
+    font-size: 15px;
+}
+
+.order_id {
+    margin-bottom: 20px;
+    height: 30px;
+    width: 200px;
+    font-size: 15px;
+}
+
+.order_items {
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.order_status {
+    margin-bottom: 20px;
+    height: 30px;
+    width: 207px;
+    font-size: 15px;
+}
+
+.payment_amount {
+    margin-bottom: 20px;
+    height: 30px;
+    width: 200px;
+    font-size: 15px;
+}
+
+.payment_type {
+    margin-bottom: 20px;
+    height: 30px;
+    width: 200px;
+    font-size: 15px;
+}
+
+.applied_discount {
+    margin-bottom: 20px;
+    height: 30px;
+    width: 200px;
+    font-size: 15px;
+}
+
+.customer_name {
+    margin-bottom: 20px;
+    height: 30px;
+    width: 200px;
+    font-size: 15px;
+}
+
+.add-customer-label {
+    font-size: 30px;
+    height: 50px;
+    line-height: 50px;
+    width: 250px;
+    text-align: center;
+    color: goldenrod;
+    background-color: brown;
+
+
+}
+
+.add-item-label {
+    width: 218px;
+    height: 80px;
+    font-size: 20px;
+    line-height: 80px;
+    text-align: center;
+    color: goldenrod;
+    background-color: brown;
+    margin-bottom: 0px;
+    margin-left: 20px;
+}
+
+.auto-food-id-class {
+    width: 211px;
+    height: 75px;
+    font-size: 20px;
+    line-height: 75px;
+    text-align: center;
+    margin-top: 12px;
+    margin-bottom: 0px;
+}
+
+.new-food-name-class {
+    width: 211px;
+    height: 75px;
+    font-size: 20px;
+    line-height: 75px;
+    text-align: center;
+    margin-top: 12px;
+    margin-bottom: 0px;
+}
+
+.new-food-category-class {
+    width: 218px;
+    height: 80px;
+    font-size: 20px;
+    line-height: 75px;
+    text-align: center;
+    margin-top: 12px;
+    margin-bottom: 0px;
+}
+
+.new-food-price-class {
+    width: 211px;
+    height: 75px;
+    font-size: 20px;
+    line-height: 75px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 80px;
+    margin-left: 20px
+}
+
+.new-food-stock-class {
+    width: 211px;
+    height: 75px;
+    font-size: 20px;
+    line-height: 75px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 80px;
+}
+
+.new-food-expiry-class {
+    width: 211px;
+    height: 75px;
+    font-size: 20px;
+    line-height: 75px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 80px;
+}
+
+.new-food-discount-class {
+    width: 211px;
+    height: 75px;
+    font-size: 20px;
+    line-height: 75px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 80px;
+}
+
+.loyalty_points {
+    margin-bottom: 20px;
+    height: 30px;
+    width: 200px;
+    font-size: 15px;
+}
+
+.active_customer {
+    /* margin-bottom: 5px; */
+    height: 30px;
+    width: 200px;
+    font-size: 15px;
+}
+
+.supervisor-link {
+    font-size: larger;
+    background-color: azure;
+
+}
+
+img {
+    width: 110px;
+    height: 110px;
+}
+
+.container {
+    display: flex;
+    align-items: flex-start;
+}
+
+.container_2 {
+    display: flex;
+    align-items: flex-start;
+}
+
+.search-button-id {
+    margin-bottom: 20px;
+    height: 30px;
+    width: 85px;
+    font-size: 15px;
+}
+
+.menu {
+    margin-right: 20px;
+}
+
+.bill-area {
+    font-size: 25px;
+    margin-right: 20px;
+
+}
+
+.phone-no-dropdown {
+    width: 211px;
+    height: 295px;
+    font-size: 30px;
+
+}
+
+.food-dropdown {
+    width: 217px;
+    height: 300px;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.place-order {
+    height: 80px;
+    width: 211px;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.customer-list {
+    height: 100px;
+    width: 211px;
+    font-size: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.relevant-stuff {
+    margin-right: 20px;
+}
+
+.btn-new-customer-add {
+    width: 250px;
+    height: 50px;
+    font-size: 30px;
+}
+
+.auto-new-id-class {
+    height: 50px;
+    width: 250px;
+    font-size: 30px;
+}
+
+.new-customer-name-class {
+    height: 50px;
+    width: 320px;
+    font-size: 30px;
+}
+
+.new-cus-phone-no-class {
+    height: 50px;
+    width: 330px;
+    font-size: 30px;
+}
+
+.add-cus-table {
+    margin-top: 1px;
+}
+
+/* .chicken_burger{
+    width: 100px ;
+    height: 100px ; 
+} */
+/* button{
+    height: 120px;
+    width: 120px;
+    font-size: small;
+    padding: 10px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+} */
+
+/* .left-text button{
+    flex-direction: row;
+} */
